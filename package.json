@@ -1,11 +1,11 @@
 {
-  "name": "@antora/ui-default",
-  "description": "An archetype project that produces a UI for creating documentation sites with Antora",
-  "homepage": "https://gitlab.com/antora/antora-ui-default",
+  "name": "@belowavgjoe/support/sinch-ui",
+  "description": "A testing UI build",
+  "homepage": "https://gitlab.com/belowavgjoe/support/sinch-ui",
   "license": "MPL-2.0",
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/antora/antora-ui-default.git"
+    "url": "https://gitlab.com/belowavgjoe/support/sinch-ui.git"
   },
   "engines": {
     "node": ">= 8.0.0"
