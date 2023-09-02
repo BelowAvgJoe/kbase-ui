@@ -39,7 +39,7 @@
   /* navbar */
   --navbar-background: var(--color-sinch);
   --navbar-font-color: var(--color-black);
-  --navbar_hover-background: var(--color-black);
+  --navbar_hover-background: var(--color-gray-70);
   --navbar-button-background: var(--color-white);
   --navbar-button-border-color: var(--panel-border-color);
   --navbar-button-font-color: var(--body-font-color);
